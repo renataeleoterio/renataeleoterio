@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renataeleoterio
+- 👋 Hi, I’m Renata!
 - 👀 I’m studying to become a front-end developer.
 - 🌱 I’m currently learning javascript!
 
