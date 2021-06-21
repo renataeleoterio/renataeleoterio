@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Renata!
-- 👀 I’m studying to become a front-end developer.
+- 👀 Studying software development. 
 - 🌱 I’m currently learning javascript!
 
 <!---
